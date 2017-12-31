@@ -1,0 +1,8 @@
+C:\Ankit\prep\Syntax_Oop_DesignPatterns_C#_Github\LearningCSharp\LearningCSharp\bin\Debug\LearningCSharp.exe
+C:\Ankit\prep\Syntax_Oop_DesignPatterns_C#_Github\LearningCSharp\LearningCSharp\bin\Debug\LearningCSharp.pdb
+C:\Ankit\prep\Syntax_Oop_DesignPatterns_C#_Github\LearningCSharp\LearningCSharp\obj\x86\Debug\LearningCSharp.exe
+C:\Ankit\prep\Syntax_Oop_DesignPatterns_C#_Github\LearningCSharp\LearningCSharp\obj\x86\Debug\LearningCSharp.pdb
+C:\Ankit\prep\Syntax_OOP_DesignPatterns_CSharp_Github\LearningCSharp\obj\x86\Debug\LearningCSharp.exe
+C:\Ankit\prep\Syntax_OOP_DesignPatterns_CSharp_Github\LearningCSharp\obj\x86\Debug\LearningCSharp.pdb
+C:\Ankit\prep\Syntax_OOP_DesignPatterns_CSharp_Github\LearningCSharp\bin\Debug\LearningCSharp.exe
+C:\Ankit\prep\Syntax_OOP_DesignPatterns_CSharp_Github\LearningCSharp\bin\Debug\LearningCSharp.pdb
