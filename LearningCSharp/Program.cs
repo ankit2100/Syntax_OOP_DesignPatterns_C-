@@ -64,6 +64,11 @@ namespace Practise
             
             //converting char array to string
             Console.WriteLine(new string(chararray));
+            Console.WriteLine("---------------------");
+
+            //converting string array to string
+            string[] mylist = { "Ankit patel", "is", "a", "Software Engineer" };
+            Console.WriteLine(string.Join(" ", mylist.ToArray()));
 
             Console.WriteLine("---------------------");
 
@@ -93,10 +98,18 @@ namespace Practise
             string myUpperLowerString = "Hi I am Ankit Patel and I am a Software Engineer";
             myUpperLowerString = myUpperLowerString.ToLower();
 
+            //ARRAY
+            //Sorting array
+            int[] nums = { 1, -2, 3 ,0 , 4 };
+            Array.Sort(nums);
 
-        //---------------------Abstraction Demo----------------------//
+            //---------------------Abstraction Demo----------------------//
+            
             ShapeAbstract objCircle = new Circle();
+            //only printShape() and visibleToOutsideWorldMethod() is accessible to outside world
+            //hiddenToOutsideWorldMethod() is hidden due to abstraction
             objCircle.printShape();
+            objCircle.visibleToOutsideWorldMethod();
             ShapeAbstract objRect = new Rectancle();
             objRect.printShape();
             Console.WriteLine("---------------------");
